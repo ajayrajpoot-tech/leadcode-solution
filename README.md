@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrajpoot-tech/leadcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/ajayrajpoot-tech/leadcode-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ajayrajpoot-tech/leadcode-solution/tree/master/0268-missing-number) |
 ## Hash Table
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ajayrajpoot-tech/leadcode-solution/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrajpoot-tech/leadcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
